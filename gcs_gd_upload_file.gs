@@ -1,5 +1,5 @@
 /*
-  target_file_id //ID FILE' //ID file to be uploaded from Google Drive to Google Cloud Storage (GCS).
+  target_file_id //ID FILE to be uploaded from Google Drive to Google Cloud Storage (GCS).
   target_bucket_name //Bucket Name
   target_bucket_path //Bucket Path
 */
