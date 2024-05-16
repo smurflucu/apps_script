@@ -1,5 +1,5 @@
 /*
-  Info: File from GCS copies or Download into Google Drive (root level)
+  Info: Download single file from GCS copies or Download into Google Drive (root level)
   target_file_name //file name that need to download from Google Cloud Storage (GCS) into Google Drive (GD)
   target_bucket_name //Bucket Name
   target_bucket_path //Bucket Path
